@@ -48,7 +48,12 @@ This will help make sure all the C# code found in the sub-actions compiles. To m
 
 
 ### Range Settings
-In the "Super Chat Range Event and Settings" update the arguments for your desired ranges. There are 6 total that can be triggered
+In the "Super Chat Range Event and Settings" update the arguments for your desired ranges. 
+
+Don't edit the `Super Chat Trigger` in the `Triggers` section, update the sub-action arguments below.
+
+There are 6 total that can be triggered
+
 Ranges 1-5 and the MAX range. Each number will be triggered at the number amount you input, OR if it is BELOW the input number and ABOVE the previous range.
 
 ![image](https://github.com/Haunter56/YouTube-SB-SuperChat-Ranges/assets/107263697/de1a97fd-f4d0-4a52-a936-0aed74bb295a)
